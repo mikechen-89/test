@@ -1,18 +1,32 @@
 {
-  "meta": {
-    "id": "tt13544772",
-    "type": "series",
-    "name": "Taskmaster NZ",
-    "poster": "https://image.tmdb.org/t/p/w500/yLbKSzvDn1Qd7YDVkJFob8qUyqL.jpg",
-    "description": "Taskmaster NZ series testing.",
-    "videos": [
-      {
-        "id": "tt13544772:6:10",
-        "title": "S6E10 - Episode Title",
-        "season": 6,
-        "episode": 10,
-        "released": "2025-01-01T00:00:00.000Z"
-      }
-    ]
-  }
+  "id": "org.test.taskmaster",
+  "version": "1.0.0",
+  "name": "Taskmaster Test",
+  "resources": ["catalog", "meta"],
+  "types": ["series"],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "tm_test_list",
+      "name": "Taskmaster S6E10"
+    }
+  ],
+  "metas": [
+    {
+      "id": "tt13544772",
+      "type": "series",
+      "name": "Taskmaster NZ",
+      "poster": "https://image.tmdb.org/t/p/w500/yLbKSzvDn1Qd7YDVkJFob8qUyqL.jpg",
+      "description": "Taskmaster NZ S6E10 Test Entry",
+      "videos": [
+        {
+          "id": "tt13544772:6:10",
+          "title": "Taskmaster NZ - S6E10",
+          "season": 6,
+          "episode": 10,
+          "released": "2025-01-01T00:00:00.000Z"
+        }
+      ]
+    }
+  ]
 }
