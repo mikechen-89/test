@@ -1,27 +1,12 @@
 {
   "metas": [
     {
-      "id": "tt0149460",
-      "type": "series",
-      "name": "Futurama",
-      "poster": "https://image.tmdb.org/t/p/w500/6ZS8SOno6kTmWz4eQ8lX8EBXOMv.jpg",
-      "description": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-      "videos": [
-        {
-          "id": "tt0149460:1:1",
-          "title": "Futurama - S1E1",
-          "season": 1,
-          "episode": 1,
-          "released": "1999-03-28T00:00:00.000Z"
-        },
-		{
-          "id": "tt2345459:28:4",
-          "title": "8 Out of 10 Cats Does Countdown - S28E4",
-          "season": 28,
-          "episode": 4,
-          "released": "2025-08-15T00:00:00.000Z"
-        }
-		]
+      "id": "tt0149460_1_1",
+      "type": "movie",
+      "name": "Futurama - S1E1",
+      "poster": "https://image.tmdb.org/t/p/w500/cmMqr0jEjKn5sdeMcqhSshueEPR.jpg",
+      "description": "Philip J. Fry is frozen for 1,000 years.",
+      "releaseInfo": "1999"
     }
   ]
 }
