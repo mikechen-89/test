@@ -1,14 +1,15 @@
 {
-  "id": "org.flat.test.v3",
+  "id": "org.flat.final.test",
   "version": "1.0.0",
-  "name": "Flattened Test",
+  "name": "Flattened Movie List",
+  "description": "Individual episodes as movies",
   "resources": ["catalog"],
-  "types": ["movie", "series"],
+  "types": ["movie"],
   "catalogs": [
     {
-      "type": "series",
+      "type": "movie",
       "id": "flattened_list",
-      "name": "Flat Episodes"
+      "name": "Shuffle Episodes"
     }
   ]
 }
