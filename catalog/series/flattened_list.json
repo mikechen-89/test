@@ -10,10 +10,12 @@
     },
     {
       "id": "tt1055238:13:2",
-      "title": "Would I Lie to You? - S13E2",
-      "season": 13,
-      "episode": 2,
-      "released": "2019-10-25T00:00:00.000Z"
+      "type": "series",
+      "name": "Would I Lie to You? - S13E2",
+      "poster": "https://image.tmdb.org/t/p/w500/77SjX5L7wB0G7C81mD0X7m1vT.jpg",
+      "description": "Host Rob Brydon and lightning-quick captains David Mitchell and Lee Mack are joined by guests Liz Kingsman, Anne-Marie, Richard Madeley, and Andy Samberg.",
+      "releaseInfo": "2019"
+    }
     }
   ]
 }
