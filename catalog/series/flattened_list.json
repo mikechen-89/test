@@ -7,6 +7,13 @@
       "poster": "https://image.tmdb.org/t/p/w500/cmMqr0jEjKn5sdeMcqhSshueEPR.jpg",
       "description": "Fry falls into a cryogenic chamber.",
       "releaseInfo": "1999"
+    },
+    {
+      "id": "tt1055238:13:2",
+      "title": "Would I Lie to You? - S13E2",
+      "season": 13,
+      "episode": 2,
+      "released": "2019-10-25T00:00:00.000Z"
     }
   ]
 }
