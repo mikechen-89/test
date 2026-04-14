@@ -6,7 +6,7 @@
   "types": ["movie", "series"],
   "catalogs": [
     {
-      "type": "movie",
+      "type": "series",
       "id": "flattened_list",
       "name": "Flat Episodes"
     }
