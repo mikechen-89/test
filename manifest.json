@@ -1,12 +1,20 @@
 {
-  "metas": [
-   {
-      "id": "tt13544772:6:10",
+  "id": "org.taskmaster.test",
+  "version": "1.0.0",
+  "name": "Taskmaster NZ Test",
+  "description": "Manifest featuring Taskmaster NZ S6E10",
+  "resources": [
+    "catalog",
+    "meta"
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
       "type": "movie",
-      "name": "Taskmaster NZ - S6E10",
-      "poster": "https://image.tmdb.org/t/p/w500/yLbKSzvDn1Qd7YDVkJFob8qUyqL.jpg",
-      "description": "We’re at the final episode and anyone could still win! Comedians must use the right materials to protect the pig, bump Paul with a boat, and fly the best paper plane.",
-      "releaseInfo": "2025"
+      "id": "taskmaster_nz_catalog",
+      "name": "Taskmaster NZ Showcase"
     }
   ]
 }
