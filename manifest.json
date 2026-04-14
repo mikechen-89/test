@@ -2,6 +2,7 @@
   "id": "episode_randomiser_test",
   "version": "1.0.0",
   "name": "Single Episode Test",
+  "description": "Testing one episode display",
   "resources": [
     "catalog",
     "meta"
