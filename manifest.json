@@ -1,20 +1,15 @@
 {
-  "id": "org.taskmaster.test",
+  "id": "org.taskmaster.nz.test",
   "version": "1.0.0",
   "name": "Taskmaster NZ Test",
-  "description": "Manifest featuring Taskmaster NZ S6E10",
-  "resources": [
-    "catalog",
-    "meta"
-  ],
-  "types": [
-    "movie"
-  ],
+  "description": "S6E10 Showcase",
+  "resources": ["catalog", "meta"],
+  "types": ["series"],
   "catalogs": [
     {
-      "type": "movie",
-      "id": "taskmaster_nz_catalog",
-      "name": "Taskmaster NZ Showcase"
+      "type": "series",
+      "id": "taskmaster_nz_test",
+      "name": "Taskmaster NZ"
     }
   ]
 }
