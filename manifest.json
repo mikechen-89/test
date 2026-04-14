@@ -1,15 +1,22 @@
 {
-  "id": "org.flat.test.v4",
+  "id": "org.mdblist.flattener.1776201447490",
   "version": "1.0.0",
-  "name": "Flattened Test V4",
-  "resources": ["catalog", "meta"],
-  "types": ["series"],
-  "idPrefixes": ["tt"],
+  "name": "Flattened List",
+  "resources": [
+    "catalog",
+    "meta"
+  ],
+  "types": [
+    "series"
+  ],
+  "idPrefixes": [
+    "tt"
+  ],
   "catalogs": [
     {
       "type": "series",
       "id": "flattened_list",
-      "name": "Flat Episodes"
+      "name": "Flattened Episodes"
     }
   ]
 }
