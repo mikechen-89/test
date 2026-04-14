@@ -1,11 +1,11 @@
 {
   "metas": [
     {
-      "id": "tt0149460",
+      "id": "tt0149460:1:1",
       "type": "movie",
       "name": "Futurama - S1E1",
       "poster": "https://image.tmdb.org/t/p/w500/cmMqr0jEjKn5sdeMcqhSshueEPR.jpg",
-      "description": "Philip J. Fry is frozen for 1,000 years.",
+      "description": "Fry falls into a cryogenic chamber.",
       "releaseInfo": "1999"
     }
   ]
