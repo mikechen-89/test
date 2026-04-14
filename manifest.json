@@ -1,30 +1,14 @@
 {
-  "id": "episode_randomiser_test",
+  "id": "org.test.futurama",
   "version": "1.0.0",
-  "name": "Single Episode Test",
-  "description": "Testing one episode display",
-  "resources": [
-    "catalog",
-    "meta"
-  ],
-  "types": [
-    "series"
-  ],
+  "name": "Futurama Test",
+  "resources": ["catalog"],
+  "types": ["series"],
   "catalogs": [
     {
       "type": "series",
-      "id": "test_catalog",
-      "name": "Test Showcase"
-    }
-  ],
-  "metas": [
-    {
-      "id": "tt0149460:1:1",
-      "type": "series",
-      "name": "Futurama - S1E1",
-      "poster": "https://image.tmdb.org/t/p/w500/cmMqr0jEjKn5sdeMcqhSshueEPR.jpg",
-      "description": "On New Year's Eve 1999, Pizza Delivery boy Philip J. Fry accidentally falls into a cryogenic chamber and is frozen for 1,000 years. Finally unfrozen, he explores New New York, meets his new best friend (a kleptomaniacal robot named Bender) and goes to work for his great-great-great-great-grand-nephew's space delivery business.",
-      "releaseInfo": "1999"
+      "id": "futurama_list",
+      "name": "Single Episode List"
     }
   ]
 }
