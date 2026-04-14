@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "name": "Flattened Test V4",
   "resources": ["catalog", "meta"],
-  "types": ["movie"],
+  "types": ["series"],
   "idPrefixes": ["tt"],
   "catalogs": [
     {
-      "type": "movie",
+      "type": "series",
       "id": "flattened_list",
       "name": "Flat Episodes"
     }
