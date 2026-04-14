@@ -1,14 +1,19 @@
 {
-  "id": "org.test.futurama",
+  "id": "org.mdblist.flattener",
   "version": "1.0.0",
-  "name": "Futurama Test",
-  "resources": ["catalog"],
-  "types": ["series"],
+  "name": "Flattened List",
+  "resources": [
+    "catalog",
+    "meta"
+  ],
+  "types": [
+    "series"
+  ],
   "catalogs": [
     {
       "type": "series",
-      "id": "futurama_list",
-      "name": "Single Episode List"
+      "id": "flattened_list",
+      "name": "Flattened Episodes"
     }
   ]
 }
