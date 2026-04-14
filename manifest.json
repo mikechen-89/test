@@ -1,19 +1,15 @@
 {
   "id": "org.mdblist.flattener",
   "version": "1.0.0",
-  "name": "Flattened List",
-  "resources": [
-    "catalog",
-    "meta"
-  ],
-  "types": [
-    "series"
-  ],
+  "name": "Flattened Episode List",
+  "description": "Independent episodes displayed as movies",
+  "resources": ["catalog"],
+  "types": ["movie"],
   "catalogs": [
     {
-      "type": "series",
+      "type": "movie",
       "id": "flattened_list",
-      "name": "Flattened Episodes"
+      "name": "All Episodes"
     }
   ]
 }
