@@ -1,22 +1,16 @@
 {
-  "id": "org.mdblist.flattener.1776240969843",
+  "id": "org.mdblist.flattener.v5",
   "version": "1.0.0",
-  "name": "Flattened List",
-  "resources": [
-    "catalog",
-    "meta"
-  ],
-  "types": [
-    "series"
-  ],
-  "idPrefixes": [
-    "tt"
-  ],
+  "name": "Flattened Shuffle",
+  "description": "Randomized episodes with playback fix",
+  "resources": ["catalog"], 
+  "types": ["series"],
+  "idPrefixes": ["tt"],
   "catalogs": [
     {
       "type": "series",
       "id": "flattened_list",
-      "name": "Flattened Episodes"
+      "name": "Shuffle Grid"
     }
   ]
 }
